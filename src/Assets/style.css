@@ -716,14 +716,13 @@ header {
   color: var(--accent);
 }
 .preview-modal-text {
-  margin: 0;
   font-size: 0.875rem;
   line-height: 1.6;
   color: var(--text);
 }
 .preview-modal-explanation {
-  font-size: 0.8125rem;
-  line-height: 1.65;
+  font-size: 0.875rem;
+  line-height: 1.6;
   color: var(--text);
 }
 .preview-modal-explanation p {
