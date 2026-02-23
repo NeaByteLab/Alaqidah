@@ -1,0 +1,30 @@
+{
+  "name": "Alaqidah Tahawiyyah",
+  "short_name": "Alaqidah",
+  "description": "The Creed of Ahl us-Sunnah wal-Jamaa'ah",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f2efe6",
+  "theme_color": "#2d8b6f",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/x-icon",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "512x512",
+      "type": "image/x-icon",
+      "purpose": "any"
+    }
+  ]
+}
